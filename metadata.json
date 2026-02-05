@@ -1,0 +1,9 @@
+{
+  "name": "TrustEstate: Secure Property Lifecycle & Fraud Guard",
+  "description": "A high-security real estate platform featuring landlord KYC onboarding, automated property lifecycle management, tenant-driven transaction verification, and AI-powered intelligence with search/maps grounding and live support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
